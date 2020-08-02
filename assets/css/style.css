@@ -1,5 +1,3 @@
-/* this universal selecter changes box size to boreder box padding to 0 margin to 0
-  */
 * {
     box-sizing: border-box;
     padding: 0;
@@ -86,7 +84,7 @@ p {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #2589bd;
 }
-/* all specifications for benefits same combined */
+/* all specifications for benefits the same combined */
 .benefit-lead, .benefit-brand, .benefit-cost {
     margin-bottom: 32px;
     color: #ffffff;
